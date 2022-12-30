@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ClockMFC", "ClockMFC.vcproj", "{96E42F89-E476-4331-9FAA-E8B5FEBE9968}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{96E42F89-E476-4331-9FAA-E8B5FEBE9968}.Debug.ActiveCfg = Debug|Win32
+		{96E42F89-E476-4331-9FAA-E8B5FEBE9968}.Debug.Build.0 = Debug|Win32
+		{96E42F89-E476-4331-9FAA-E8B5FEBE9968}.Release.ActiveCfg = Release|Win32
+		{96E42F89-E476-4331-9FAA-E8B5FEBE9968}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
